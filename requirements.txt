@@ -1,8 +1,9 @@
-python-telegram-bot==20.3
-binance==0.3
-pandas==2.0.3
+numpy==1.26.4
+pandas==2.2.2
 pandas-ta==0.3.14b0
 mplfinance==0.12.10b0
+python-telegram-bot==20.8
 python-dotenv==1.0.1
 schedule==1.2.1
 flask==3.0.2
+
