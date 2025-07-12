@@ -6,4 +6,5 @@ python-telegram-bot==20.8
 python-dotenv==1.0.1
 schedule==1.2.1
 flask==3.0.2
-
+ccxt==4.2.51
+cryptography==42.0.5
