@@ -8,3 +8,4 @@ schedule==1.2.1
 flask==3.0.2
 ccxt==4.2.51
 cryptography==42.0.5
+python-binance
