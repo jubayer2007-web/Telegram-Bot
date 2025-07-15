@@ -1,0 +1,26 @@
+numpy==1.26.4
+pandas==2.2.2
+pandas-ta==0.3.14b0
+mplfinance==0.12.10b0
+python-telegram-bot==20.8
+python-dotenv==1.0.1
+schedule==1.2.1
+flask==3.0.2
+ccxt==4.2.51
+cryptography==42.0.5
+python-binance
+python-telegram-bot==20.8
+pandas==2.2.2
+pandas-ta==0.3.14b0
+mplfinance==0.12.10b0
+python-binance==1.0.17
+binance
+telegram
+nest-asyncio
+pytz
+ccxt telebot ta mplfinance
+matplotlib
+pytelegrambotapi
+ta
+pip install telebot ccxt pandas pytz matplotlib mplfinance ta pandas_ta
+pip install telebot ccxt pandas pandas_ta mplfinance pytz matplotlib
